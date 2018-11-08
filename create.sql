@@ -3,5 +3,5 @@ CREATE TABLE planets (
    name TEXT,
    color TEXT,
    num_of_moons INTEGER,
-   mass REAL,
+   mass REAL
 );
